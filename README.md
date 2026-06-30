@@ -60,7 +60,7 @@ Automation - System Architecture - Research & Development
   Arsh Tyagi       Developer
   Ekansh           Developer
   Durgesh Thakur   Developer
-  Chahat           Developer *(Surname not available)*
+  Chahat           Developer
 
 ------------------------------------------------------------------------
 
