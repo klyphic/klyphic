@@ -56,11 +56,11 @@ Automation - System Architecture - Research & Development
 
   Name             Role
   ---------------- -------------------------------------
-  Pujesh Reddy     Developer
-  Arsh Tyagi       Developer
-  Ekansh           Developer
-  Durgesh Thakur   Developer
-  Chahat           Developer
+  Pujesh Reddy
+  Arsh Tyagi
+  Ekansh
+  Durgesh Thakur
+  Chahat
 
 ------------------------------------------------------------------------
 
