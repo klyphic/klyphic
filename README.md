@@ -56,10 +56,10 @@ Automation - System Architecture - Research & Development
 
   Name             Role
   ---------------- -------------------------------------
-  Pujesh Reddy
-  Arsh Tyagi
-  Ekansh
-  Durgesh Thakur
+  Pujesh Reddy,
+  Arsh Tyagi,
+  Ekansh,
+  Durgesh Thakur,
   Chahat
 
 ------------------------------------------------------------------------
